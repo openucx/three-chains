@@ -1,0 +1,14 @@
+[deps]
+CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+GPUCompiler = "61eb1bfa-7361-4325-ad38-22787b887f55"
+LLVM = "929cbde3-209d-540e-8aea-75f648917ca0"
+PProf = "e4faabce-9ead-11e9-39d9-4379958e3056"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
+TypedTables = "9d95f2ec-7b3d-5a63-8d20-e2491e220bb9"
+UCX = "6b349878-927d-5bd5-ab28-bc3aa4175a33"
+UnsafeAtomics = "013be700-e6cd-48c3-b4a1-df204f14c38f"
+
+[extras]
+UCX_jll = "16e4e860-d6b8-5056-a518-93e88b6392ae"
